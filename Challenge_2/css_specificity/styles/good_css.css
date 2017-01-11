@@ -1,0 +1,22 @@
+h1 {
+	font-size: 48px;
+}
+.bold {
+	font-size: 32px;
+	font-weight: bold;
+	color: DarkGray;
+}
+.navy {
+	color: Navy;
+        font-size: 32px;
+
+}
+.crossed {
+	text-decoration: line-through;
+}
+
+.big-font{
+    font-size: 32px;
+    color: darkgray;
+}
+
