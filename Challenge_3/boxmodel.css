@@ -1,0 +1,25 @@
+.Roee { 
+    border-style: dotted;
+    border-color: white;
+    background-color: gray;
+    width: 300px;
+    height: 300px;
+    margin: auto; 
+    margin-top: 300px;
+    text-align: center;
+    text-align-last: center;
+    -webkit-text-fill-color: white;
+
+
+}
+.pa {height: 100px}
+
+.bs {
+border-color:lightgray;
+border-width: 30px;
+border-style: solid;
+margin-left: 450px;
+margin-top: 100px;
+}
+
+
